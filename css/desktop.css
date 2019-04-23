@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Nanum Brush Script', cursive;
+}
+
+
+.newsletter {
+  height: 200px;
+  padding: 50px;
+  background-color: #4B91AF;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+.footer {
+  height: 150px;
+  background-color: gray;
+  color: white;
+  padding: 50px;
+  font-size: 30px;
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.bg-nav {
+  background-color: #459491!important;
+}
+.bg-jumbotron {
+  background-color: #070B13!important;
+}
+
+.jumbotron {
+  background-color: #334260;
+  padding: 100px;
+  color: white;
+}
+
+.benefits {
+  padding: 50px;
+}
